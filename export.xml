@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+  <Endpoints>
+    <Endpoint macVendor="Intel Corporate" macAddress="11a51d6ca671" status="Known">
+      <EndpointTags tagName="Description" tagValue="11a51d6ca671" />
+      <EndpointTags tagName="Compliance" tagValue="Compliant" />
+      <EndpointTags tagName="Source" tagValue="Provider Name" />
+    </Endpoint>
+    <Endpoint macVendor="Intel Corporate" macAddress="bd6ee2e61c2c" status="Known">
+      <EndpointTags tagName="Description" tagValue="bd6ee2e61c2c" />
+      <EndpointTags tagName="Compliance" tagValue="Compliant" />
+      <EndpointTags tagName="Source" tagValue="Provider Name" />
+    </Endpoint>
+  </Endpoints>
+</TipsContents>
